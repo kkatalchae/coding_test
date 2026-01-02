@@ -1,4 +1,4 @@
-package programmers.Level1;
+package Level1;
 
 import org.junit.Test;
 
