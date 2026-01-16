@@ -1,4 +1,4 @@
-package Beakjoon.IO_Arithmetic;
+package baekjoon.IO_Arithmetic;
 
 /**
  * 문제

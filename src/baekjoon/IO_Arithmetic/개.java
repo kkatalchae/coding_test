@@ -1,4 +1,4 @@
-package Beakjoon.IO_Arithmetic;
+package baekjoon.IO_Arithmetic;
 
 public class 개 {
     public static void main(String[] args) {

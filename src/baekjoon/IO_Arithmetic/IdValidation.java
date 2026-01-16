@@ -1,4 +1,4 @@
-package Beakjoon.IO_Arithmetic;
+package baekjoon.IO_Arithmetic;
 
 import java.io.IOException;
 import java.util.Scanner;

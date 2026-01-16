@@ -1,4 +1,4 @@
-package Beakjoon.loop;
+package baekjoon.loop;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Beakjoon.IO_Arithmetic;
+package baekjoon.IO_Arithmetic;
 
 public class 고양이 {
     public static void main(String[] args) {
