@@ -17,7 +17,7 @@ public class 중복된_숫자_개수_테스트 {
     int n = 1;
     int answer = 2;
 
-    assertEquals(answer, 중복된_숫자_개수.solution(arr, n));
+    assertEquals(answer, level0.중복된_숫자_개수.solution(arr, n));
   }
 
   @Test
@@ -26,6 +26,6 @@ public class 중복된_숫자_개수_테스트 {
     int n = 1;
     int answer = 0;
 
-    assertEquals(answer, 중복된_숫자_개수.solution(arr, n));
+    assertEquals(answer, level0.중복된_숫자_개수.solution(arr, n));
   }
 }
