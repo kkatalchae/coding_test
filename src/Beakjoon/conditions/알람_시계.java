@@ -1,7 +1,5 @@
-package Beakjoon.조건문;
+package Beakjoon.conditions;
 
-import java.time.Instant;
-import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.util.Scanner;
 

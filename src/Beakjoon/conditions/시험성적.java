@@ -1,4 +1,4 @@
-package Beakjoon.조건문;
+package Beakjoon.conditions;
 
 import java.util.Scanner;
 
